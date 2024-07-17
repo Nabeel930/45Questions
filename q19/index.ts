@@ -1,0 +1,1 @@
+console.log(`I have invited 6 people to the dinner.`)

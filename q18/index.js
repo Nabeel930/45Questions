@@ -1,0 +1,14 @@
+"use strict";
+let placesToVisit = ['Turkey', 'Saudi Arabia', 'Qatar', 'Dubai', 'Iran'];
+console.log(placesToVisit);
+let sort = placesToVisit.slice().sort();
+console.log(sort);
+console.log(placesToVisit);
+placesToVisit.reverse();
+console.log(placesToVisit);
+placesToVisit.reverse();
+console.log(placesToVisit);
+placesToVisit.sort();
+console.log(placesToVisit);
+placesToVisit.reverse();
+console.log(placesToVisit);
